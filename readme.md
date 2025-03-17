@@ -1,7 +1,4 @@
 
-### Disclaimer 🚨
-This application is for education purpose only.
-
 # Instagram Unfollower Bot
 
 An automated tool to unfollow Instagram accounts using Python and Selenium.
